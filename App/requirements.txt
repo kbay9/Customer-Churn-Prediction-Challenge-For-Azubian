@@ -1,0 +1,17 @@
+numpy
+scipy
+gradio
+streamlit
+pandas==2.2.2
+scikit-learn==1.4.2
+imbalanced-learn
+pytest
+joblib==1.4.2
+pyodbc
+lightgbm
+seaborn
+python-dotenv
+bcrypt 
+plotly>=5.0
+faker 
+xgboost
